@@ -64,3 +64,8 @@ aastapi
 uvicorn
 
 time
+
+
+# Authors
+## Rui Duarte - Instituto Politécnico de Santarém
+## Laysa Siqueira - Instituto Politécnico de Santarém
